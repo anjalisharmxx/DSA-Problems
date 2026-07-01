@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0035-search-insert-position) |
+| [0152-maximum-product-subarray](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0704-binary-search](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0739-daily-temperatures) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
