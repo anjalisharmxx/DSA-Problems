@@ -40,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
