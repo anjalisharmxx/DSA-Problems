@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -74,10 +75,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0202-happy-number) |
 | [0728-self-dividing-numbers](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0728-self-dividing-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
