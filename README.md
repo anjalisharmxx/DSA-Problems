@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0704-binary-search) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -15,9 +16,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0704-binary-search) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
