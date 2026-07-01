@@ -78,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0202-happy-number) |
+| [0728-self-dividing-numbers](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0728-self-dividing-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
