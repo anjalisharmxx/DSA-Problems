@@ -1,25 +1,22 @@
 class Solution {
 public:
-    int getNext(int n) {
-        int sum = 0;
-
-        while (n > 0) {
-            int digit = n % 10;
-            sum += digit * digit;
-            n /= 10;
+    int next(int n){
+        int sum=0;
+        while(n>0){
+            int digit=n%10;
+            sum+=digit*digit;
+            n=n/10;
         }
-
         return sum;
     }
-
     bool isHappy(int n) {
-        unordered_set<int> seen;
+        unordered_set<int> mp;
 
-        while (n != 1 && !seen.count(n)) {
-            seen.insert(n);
-            n = getNext(n);
+        while(n!=1 && !mp.count(n)){
+            mp.insert(n);
+            n=next(n);
         }
 
-        return n == 1;
+        return n==1;
     }
 };
