@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0152-maximum-product-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0739-daily-temperatures) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,5 +103,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
