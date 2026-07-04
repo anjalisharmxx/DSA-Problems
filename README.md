@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0704-binary-search) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0200-number-of-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Linked List
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
