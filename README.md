@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0728-self-dividing-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Monotonic Stack
 |  |
 | ------- |
