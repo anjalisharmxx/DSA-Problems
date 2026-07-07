@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [3620-network-recovery-pathways](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3620-network-recovery-pathways) |
 ## Sorting
