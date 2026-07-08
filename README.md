@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0392-is-subsequence) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0728-self-dividing-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
