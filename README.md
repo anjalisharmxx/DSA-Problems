@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0728-self-dividing-numbers) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0509-fibonacci-number) |
