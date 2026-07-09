@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3620-network-recovery-pathways) |
 ## Interactive
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0383-ransom-note) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anjalisharmxx/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
