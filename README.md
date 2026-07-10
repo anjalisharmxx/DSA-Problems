@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
@@ -289,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
