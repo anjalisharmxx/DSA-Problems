@@ -15,7 +15,7 @@ public:
             }
             maxlen=max(maxlen,r-l+1);
             mp[s[r]]=r;
-             r++;
+            r++;
         }
         return maxlen;
     }
