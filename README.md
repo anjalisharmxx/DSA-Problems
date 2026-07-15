@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
