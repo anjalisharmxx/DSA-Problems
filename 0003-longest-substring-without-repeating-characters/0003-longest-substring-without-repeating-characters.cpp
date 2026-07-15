@@ -9,14 +9,16 @@ public:
         for(int i=0;i<256;i++){
             mp[i]=-1;
         }
+
         while(r<n){
-            if(mp[s[r]]!=-1 && mp[s[r]]>=l){
-                l=mp[s[r]]+1;
+            if(mp[s[r]] !=-1 && mp[s[r]]>=l){
+               l= 1 + mp[s[r]];
             }
-            maxlen=max(maxlen,r-l+1);
-            mp[s[r]]=r;
-            r++;
+          maxlen=max(maxlen,r-l+1);
+          mp[s[r]]=r;
+          r++;
         }
+
         return maxlen;
     }
 };
