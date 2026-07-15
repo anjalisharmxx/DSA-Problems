@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0152-maximum-product-subarray) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
@@ -344,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anjalisharmxx/DSA-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
