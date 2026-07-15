@@ -1,11 +1,12 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        int s=0; int e=nums.size()-1;
-        int mid;
+        int n=nums.size();
+        int s=0,e=n-1,mid;
 
         while(s<=e){
             mid=s+(e-s)/2;
+
             if(nums[mid]==target) return mid;
             if(nums[s]<=nums[mid]){
                 if(nums[s]<=target && target<nums[mid]){
@@ -16,7 +17,7 @@ public:
                 }
             }
             else{
-                 if(nums[mid]<target && target<=nums[e]){
+                if(nums[mid]<target && target<=nums[e]){
                     s=mid+1;
                 }
                 else{
