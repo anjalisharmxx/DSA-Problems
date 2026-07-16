@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0383-ransom-note) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
@@ -370,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
