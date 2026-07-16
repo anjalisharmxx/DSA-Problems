@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0213-house-robber-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0383-ransom-note) |
 ## Quickselect
