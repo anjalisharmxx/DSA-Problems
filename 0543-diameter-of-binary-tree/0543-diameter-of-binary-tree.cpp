@@ -13,18 +13,17 @@ class Solution {
 public:
     int diameter=0;
     int depth(TreeNode* root){
-        if(root==NULL) return NULL;
+        if(root==NULL) return 0;
 
         int l=depth(root->left);
         int r=depth(root->right);
         
         diameter=max(diameter,l+r);
         return 1+max(l,r);
-
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root==NULL) return NULL;
-        
+        if(root==NULL) return 0;
+
         depth(root);
         return diameter;
     }
