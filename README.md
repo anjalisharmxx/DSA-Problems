@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0062-unique-paths) |
@@ -403,5 +405,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
