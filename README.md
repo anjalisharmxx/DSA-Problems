@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0518-coin-change-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0746-min-cost-climbing-stairs) |
