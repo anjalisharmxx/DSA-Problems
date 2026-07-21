@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
+| [1143-longest-common-subsequence](https://github.com/anjalisharmxx/DSA-Problems/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anjalisharmxx/DSA-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/anjalisharmxx/DSA-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/anjalisharmxx/DSA-Problems/tree/master/1143-longest-common-subsequence) |
 | [3620-network-recovery-pathways](https://github.com/anjalisharmxx/DSA-Problems/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
