@@ -1,33 +1,29 @@
 class Solution {
 public:
-    bool solve(int i, int target, vector<int>& nums, vector<vector<int>>& dp) {
+    bool solve(int i,int target,vector<int>& nums,vector<vector<int>>& dp){
+        if(target==0) return true;
+        
+        if(i>=nums.size() || target<0) return false;
 
-        if(target == 0)
-            return true;
+        if(dp[i][target]!=-1) return dp[i][target];
 
-        if(i >= nums.size() || target < 0)
-            return false;
+        int nottake=solve(i+1,target,nums,dp);
+        int take=solve(i+1,target-nums[i],nums,dp);
 
-        if(dp[i][target] != -1)
-            return dp[i][target];
-
-        bool take = solve(i + 1, target - nums[i], nums, dp);
-        bool notTake = solve(i + 1, target, nums, dp);
-
-        return dp[i][target] = take || notTake;
+        return dp[i][target]=take || nottake;
     }
-
     bool canPartition(vector<int>& nums) {
+        int n=nums.size();
+        int sum=0;
 
-        int sum = accumulate(nums.begin(), nums.end(), 0);
+        for(int i:nums){
+             sum+=i;
+        }
+          if(sum%2!=0) return false;
 
-        if(sum % 2)
-            return false;
+        int target=sum/2;
+        vector<vector<int>> dp(n,vector<int>(target+1,-1));
 
-        int target = sum / 2;
-
-        vector<vector<int>> dp(nums.size(), vector<int>(target + 1, -1));
-
-        return solve(0, target, nums, dp);
+        return solve(0,target,nums,dp);
     }
 };
