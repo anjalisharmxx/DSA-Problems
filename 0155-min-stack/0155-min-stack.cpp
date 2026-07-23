@@ -9,7 +9,7 @@ public:
     void push(int value) {
         st.push(value);
 
-        if(mn.empty() || value<=mn.top()){
+        if(mn.empty() || mn.top()>=value){
             mn.push(value);
         }
     }
@@ -18,7 +18,6 @@ public:
         if(mn.top()==st.top()){
             mn.pop();
         }
-
         st.pop();
     }
     
